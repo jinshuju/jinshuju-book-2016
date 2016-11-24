@@ -1,6 +1,6 @@
 {
     "root": "./docs",
     "pdf": {
-
+        "fontSize" : '9‘
     }
 }
