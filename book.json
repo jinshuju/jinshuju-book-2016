@@ -1,7 +1,17 @@
 {
     "root": "./docs",
+    "title": "2小时精通金数据",
+    "author": "金数据",
+    "language": "zh",
     "pdf": {
-        "fontSize" : 12,
-        "pageSize" : "a5"
+      "fontSize" : 10,
+      "paperSize" : "a5"
+    },
+
+    "styles": {
+      "ebook": "styles/ebook.css",
+      "pdf": "styles/pdf.css",
+      "mobi": "styles/mobi.css",
+      "epub": "styles/epub.css"
     }
 }
