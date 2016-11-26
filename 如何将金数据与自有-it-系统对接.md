@@ -13,11 +13,8 @@
 API访问规则
 
 * 所有的数据格式为JSON
-
 * 所有的数据传输编码为UTF-8
-
 * 目前，API访问的地址来源为[https:\/\/jinshuju.net\/api\/v1\/](https://jinshuju.net/api/v1/)
-
 * 除了数据推送API外，所有的API都需要恰当的API访问权限。目前我们仅支持HTTP Basic验证的方式。
 
 ## 目前提供的API
