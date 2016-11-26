@@ -17,66 +17,26 @@
 ##「人」的自动识别，「数据」的自动汇总
 
 
-
-
-
 如果你有多条数据，且他们的联系信息基本相同，金数据则会聪明的将它们自动识别为一个人，并且在联系人详情中，会列出该用户填写过的所有表单。
 
 ![](https://dn-shimo-image.qbox.me/xCtAmQy07rgR5kbr/image.png!thumbnail)
 
-
-
-
-
-
-
-
-
-
-
-三. 联系人管理、分组
-
-
-
-
+## 联系人管理、分组
 
 众多的联系人如何分组、管理？金数据提供了按表单过滤，与标签分组功能。前者顾名思义，可以列出每个表单的填写者列表。而标签分组，可以为每个联系人快速的打上标签，将它们分组管理，并且标签之间是互不影响，可以为一个人打上多个标签。
 
-
-
-
-
 ![](https://dn-shimo-image.qbox.me/gEveziVR2G0nex4D/image.png!thumbnail)
-
-
 
 这样将一次活动的用户分组，你就可以为老用户、新用户发送不同的短信通知，以及活动后的调查表了。
 
-
-
-
-
 需要查找某个联系人时，也可以在搜索栏中输入联系人的姓名、电话，搜索结果会直接显示联系人的信息。
-
-
 
 ![](http://mmbiz.qpic.cn/mmbiz/3xSOlqCbovtq3o8mKHLBcib9ZgkjQIz5jzbhStVug7MiayGTh3CHtB6KnyoTKicE6hHfE5hY51cGzy5n9ia24keVAw/640?wx_fmt=png&&wxfrom=5&wx_lazy=1)
 
-四. 短信、邮件的快捷发送
-
-
-
-
+## 给联系人发送短信和邮件
 
 筛选后，你就可以批量向这些用户发送短信或邮件了，这里可以设置自己的短信签名。加上金数据的 Excel 导入表单功能，你可以在联系人中直接向任意一群人发送短信。金数据完全可以作为一个短信发送平台使用。
 
 
-
 ![](https://dn-shimo-image.qbox.me/9ukN6XLBrkAkATK8/image.png!thumbnail)
-
-
-
-
-
-
 
