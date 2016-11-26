@@ -20,7 +20,7 @@ API访问规则
 
 * 除了数据推送API外，所有的API都需要恰当的API访问权限。目前我们仅支持HTTP Basic验证的方式。
 
-###目前提供的API
+## 目前提供的API
 
 1. [数据推送API](https://help.jinshuju.net/articles/http-push.html)：开启数据推送API的表单收到新数据时，金数据会将该数据通过HTTP POST推送到指定的URL。
 
