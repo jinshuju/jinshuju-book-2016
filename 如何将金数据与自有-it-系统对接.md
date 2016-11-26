@@ -19,11 +19,11 @@ API访问规则
 
 ## 目前提供的API
 
-1. [数据推送API](https://help.jinshuju.net/articles/http-push.html)：开启数据推送API的表单收到新数据时，金数据会将该数据通过HTTP POST推送到指定的URL。
+1. 数据推送API：开启数据推送API的表单收到新数据时，金数据会将该数据通过HTTP POST推送到指定的URL。
 
-2. [表单API](https://help.jinshuju.net/articles/form-api.html)：您可以通过该API获取表单定义，然后你可以在任意你熟知的平台上重绘这个表单。通过结合[数据API](https://help.jinshuju.net/articles/entry-api.html)，您可以脱离金数据界面绘制和添加数据。
+2. 表单API：您可以通过该API获取表单定义，然后你可以在任意你熟知的平台上重绘这个表单。通过结合[数据API](https://help.jinshuju.net/articles/entry-api.html)，您可以脱离金数据界面绘制和添加数据。
 
-3. [数据API](https://help.jinshuju.net/articles/entry-api.html)：您可以通过这个API添加数据。您能够将所有的数据通过JSON格式以HTTP POST的方式发送到对应的表单。
+3. 数据API：您可以通过这个API添加数据。您能够将所有的数据通过JSON格式以HTTP POST的方式发送到对应的表单。
 
 ##设置跳转的附带参数
 
