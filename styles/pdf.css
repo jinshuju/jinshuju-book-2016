@@ -1,3 +1,48 @@
 h1, h2, h3, h4, h5 {
   font-size: 1em;
 }
+
+.pdf-header {
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    color: #666;
+}
+
+.pdf-footer {
+  color: #666;
+}
+
+.page .section h1 {
+  font-size: 1.6em;
+}
+
+.page .section h2 {
+  font-size: 1.3em;
+}
+
+.page .section h3 {
+  font-size: 1.1em;
+}
+
+a {
+  color: #000;
+}
+
+.section.toc {
+
+}
+
+.section.toc:before, .section.toc:after {
+  display: block;
+  content: "\A0";
+  page-break-before: always;
+}
+
+.section.toc a {
+  color: #000;
+}
+
+.section.toc h2 {
+  font-size: 1.2em;
+}
