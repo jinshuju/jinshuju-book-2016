@@ -2,7 +2,7 @@
 
 「联系人」是金数据系统中最重要的功能模块之一，帮你挖掘客户信息，发现数据价值。只要你通过「姓名」、「手机」或「邮箱」字段收集到了数据，你将在页面最上方看到「联系人」。这里自动汇总了表单填写者的联系信息，以及每位联系人填写过的表单数据，方便你管理填写过表单的用户，并批量向他们发送短信、邮件。
 
-![](https://dn-shimo-image.qbox.me/w6YjWVGqmGYFqQXU/image.png!thumbnail)
+![](/assets/联系信息字段.png)
 
 
 ## 应用场景
@@ -19,24 +19,22 @@
 
 如果你有多条数据，且他们的联系信息基本相同，金数据则会聪明的将它们自动识别为一个人，并且在联系人详情中，会列出该用户填写过的所有表单。
 
-![](https://dn-shimo-image.qbox.me/xCtAmQy07rgR5kbr/image.png!thumbnail)
+![](/assets/联系人详情01.png)
 
 ## 联系人管理、分组
 
 众多的联系人如何分组、管理？金数据提供了按表单过滤，与标签分组功能。前者顾名思义，可以列出每个表单的填写者列表。而标签分组，可以为每个联系人快速的打上标签，将它们分组管理，并且标签之间是互不影响，可以为一个人打上多个标签。
 
-![](https://dn-shimo-image.qbox.me/gEveziVR2G0nex4D/image.png!thumbnail)
+![](/assets/联系人-分组2.jpg)
 
 这样将一次活动的用户分组，你就可以为老用户、新用户发送不同的短信通知，以及活动后的调查表了。
 
 需要查找某个联系人时，也可以在搜索栏中输入联系人的姓名、电话，搜索结果会直接显示联系人的信息。
 
-![](http://mmbiz.qpic.cn/mmbiz/3xSOlqCbovtq3o8mKHLBcib9ZgkjQIz5jzbhStVug7MiayGTh3CHtB6KnyoTKicE6hHfE5hY51cGzy5n9ia24keVAw/640?wx_fmt=png&&wxfrom=5&wx_lazy=1)
+![](/assets/联系人搜索副本.png)
 
 ## 给联系人发送短信和邮件
 
 筛选后，你就可以批量向这些用户发送短信或邮件了，这里可以设置自己的短信签名。加上金数据的 Excel 导入表单功能，你可以在联系人中直接向任意一群人发送短信。金数据完全可以作为一个短信发送平台使用。
 
-
-![](https://dn-shimo-image.qbox.me/9ukN6XLBrkAkATK8/image.png!thumbnail)
-
+![](/assets/联系人-发短信.png)
