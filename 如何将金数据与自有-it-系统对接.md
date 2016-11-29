@@ -44,7 +44,7 @@
 
 您可以对跳转附带的参数进行验证，以保证该参数有效或者没有被恶意篡改。
 
-您需要在提交成功转向后的**10分钟内**发送 GET 请求至 `https://jinshuju.net/api/v1/jamr_v`进行验证
+您需要在提交成功转向后的 **10 分钟内**发送 GET 请求至 `https://jinshuju.net/api/v1/jamr_v`进行验证
 
 例如： `https://jinshuju.net/api/v1/jamr_v?field_1=xxx&field_2=xxx&jamr_h=xxx&serial_number=xxx`
 
