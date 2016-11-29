@@ -33,11 +33,6 @@ a {
 
 }
 
-.section.toc:before, .section.toc:after {
-  display: block;
-  content: "\A0";
-  page-break-before: always;
-}
 
 .section.toc a {
   color: #000;
