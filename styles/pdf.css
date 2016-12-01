@@ -42,3 +42,7 @@ a {
 .section.toc h2 {
   font-size: 1.2em;
 }
+
+center {
+  color: #999;
+}
