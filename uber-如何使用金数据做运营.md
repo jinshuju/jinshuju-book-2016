@@ -12,9 +12,9 @@
 
 同样，Uber 在表单上也不含糊，一张炫酷的头图就能让你感觉到，这就是那个优雅帅气的 Uber，如图 1 所示。
 
-![](http://mmbiz.qpic.cn/mmbiz/3xSOlqCbovsX2yWtGqSDFasAHYYTeNKiaCKiad0diaiafL2RZy6OhQrMZRe9tzN7oMjr2Liako1vllmYlcJNButIC7Q/0?wx_fmt=gif&&wxfrom=5&wx_lazy=1)
+![](/assets/图1 Uber 表单头图.png)
 
-图1 Uber 表单头图
+<center>图1 Uber 表单头图</center>
 
 ## 三名经理就能开疆扩土，金数据让运营压力减少一半
 
@@ -22,17 +22,17 @@ Uber 在每个城市的人数规模都是非常小的，三名经理加上几位
 
 如何在保持小而美的情况下还能高效服务一座城中的百万用户？Uber 使用金数据来减少运营上的压力。他们将每次活动的报名信息、用户反馈调查，甚至校招的资料收集全部交由金数据完成，如图 2 所示， 他们只需分析数据即可，而这些数以万计的信息，才是 Uber 最看重，最核心的资产。
 
-![](http://mmbiz.qpic.cn/mmbiz/3xSOlqCbovsX2yWtGqSDFasAHYYTeNKiaTplM72Su8XvBQwE0JZoBnDUIZonXtq2bhkUluICLR9YJX6sFy0N17A/640?wx_fmt=png&&wxfrom=5&wx_lazy=1)
+![](/assets/图2 Uber 表单.png)
 
-图2 Uber 表单
+<center>图2 Uber 表单</center>
 
 ## Uber 用数十个表单，组成一套完整的车主反馈系统
 
 车主的服务质量是叫车体验中最重要的环节，为了保证车主高质量的完成每一次行程，Uber 提供了完善的反馈机制，从注册车主开始，车主培训、活动报名、签到，以及开车过程中的问题申报等等，在这些环节中，Uber 都分别建立了表单来收集数据，如图 3 所示。从司机提交数据，到 Uber 收到通知，时间不过 3 秒，从而实现对司机反馈的快速响应。
 
-![](http://mmbiz.qpic.cn/mmbiz/3xSOlqCbovsX2yWtGqSDFasAHYYTeNKiaKZXMmJ9sZibRqqmhyW2rJPIwVSG35Seg0SVe856CeSz6yPwdBSdLcpw/640?wx_fmt=png&&wxfrom=5&wx_lazy=1)
+![](/assets/图3 Uber 运营流程中金数据的使用.png)
 
-图3 Uber 运营流程中金数据的使用
+<center>图3 Uber 运营流程中金数据的使用</center>
 
 ## 表单的背后，是数据驱动的力量
 
