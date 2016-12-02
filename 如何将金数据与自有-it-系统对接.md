@@ -50,5 +50,5 @@
 
 例如： `https://jinshuju.net/api/v1/jamr_v?field_1=xxx&field_2=xxx&jamr_h=xxx&serial_number=xxx`
 
-如果返回 200 则表示验证通过，如果返回 400 则表示验证失败，失败信息可以查看 response JSON中的 message。
+如果返回 200 则表示验证通过，如果返回 400 则表示验证失败，失败信息可以查看 response JSON 中的 message。
 
