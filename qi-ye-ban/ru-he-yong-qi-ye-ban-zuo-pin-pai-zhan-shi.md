@@ -16,17 +16,11 @@
 
 ![](https://images-cdn.shimo.im/uyNhrIVq7uQjGx1S/image.png!thumbnail)
 
-  
-
-
 ## **表单二维码中嵌入 Logo**
 
 每个表单对应一个二维码，企业版中支持在二维码中嵌入 Logo，帮助增强品牌信念感。设置方法如图 3。
 
 ![](https://images-cdn.shimo.im/9APVtt74y08MG38g/image.png!thumbnail)
-
-  
-
 
 ## **自定义表单底部品牌文字**
 
@@ -39,6 +33,8 @@
 ![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
 
 ![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
+
+
 
 
 
