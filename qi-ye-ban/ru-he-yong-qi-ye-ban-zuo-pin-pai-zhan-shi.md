@@ -28,13 +28,3 @@
 
 如此设置后，你的用户看到的表单填写页面将如图 5 展示。![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
 
-![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
-
-![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
-
-![](https://images-cdn.shimo.im/IHvMmwAHU3IWX3oi/image.png!thumbnail)
-
-
-
-
-
