@@ -4,6 +4,7 @@
 
 * [寄语](README.md)
 * [如何阅读这本书](如何阅读这本书.md)
+* [如何用企业版改造运营商业务系统](ru-he-yong-qi-ye-ban-gai-zao-yun-ying-shang-ye-wu-xi-tong.md)
 
 ## 使用技巧
 
