@@ -4,7 +4,6 @@
 
 * [寄语](README.md)
 * [如何阅读这本书](如何阅读这本书.md)
-* [如何用企业版改造运营商业务系统](ru-he-yong-qi-ye-ban-gai-zao-yun-ying-shang-ye-wu-xi-tong.md)
 
 ## 使用技巧
 
@@ -36,6 +35,7 @@
 * [填表人如何在企业版中查看和修改数据](qi-ye-ban/tian-biao-ren-ru-he-zai-qi-ye-ban-zhong-cha-kan-he-xiu-gai-shu-ju.md)
 * [如何用企业版改造出差系统](qi-ye-ban/ru-he-yong-qi-ye-ban-gai-zao-chu-cha-xi-tong.md)
 * [如何与自有 IT 系统对接](如何将金数据与自有-it-系统对接.md)
+* [如何用企业版改造运营商业务系统](ru-he-yong-qi-ye-ban-gai-zao-yun-ying-shang-ye-wu-xi-tong.md)
 
 ## 职场指南
 
