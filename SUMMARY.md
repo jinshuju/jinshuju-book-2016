@@ -24,7 +24,6 @@
 * [如何追踪数据的来源](如何追踪数据来源.md)
 * [企业用户如何更好地使用金数据](企业用户如何更好地使用金数据.md)
 * [如何在钉钉中使用金数据](如何在钉钉中使用金数据.md)
-* [如何与自有 IT 系统对接](如何将金数据与自有-it-系统对接.md)
 * [如何将表单做得更漂亮](如何提升表单颜值.md)
 * [金数据中的其他高级功能](更多实用功能，也许只有-1-的人会用.md)
 
@@ -35,7 +34,7 @@
 * [如何用企业版做品牌展示](qi-ye-ban/ru-he-yong-qi-ye-ban-zuo-pin-pai-zhan-shi.md)
 * [填表人如何在企业版中查看和修改数据](qi-ye-ban/tian-biao-ren-ru-he-zai-qi-ye-ban-zhong-cha-kan-he-xiu-gai-shu-ju.md)
 * [如何用企业版改造出差系统](qi-ye-ban/ru-he-yong-qi-ye-ban-gai-zao-chu-cha-xi-tong.md)
-* [如何将金数据与企业IT系统对接](qi-ye-ban/ru-he-jiang-jin-shu-ju-yu-qi-ye-it-xi-tong-dui-jie.md)
+* [如何与自有 IT 系统对接](如何将金数据与自有-it-系统对接.md)
 
 ## 职场指南
 
