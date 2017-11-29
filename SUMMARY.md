@@ -39,8 +39,8 @@
 ## 企业版
 
 * [金数据企业版介绍](qi-ye-ban/jin-shu-ju-qi-ye-ban-jie-shao.md)
-* [企业版如何管理账号和表单权限](qi-ye-ban/qi-ye-ban-zhong-ru-he-guan-li-zhang-hao-he-biao-dan-quan-xian.md)
-* [如何用企业版做品牌展示](qi-ye-ban/ru-he-yong-qi-ye-ban-zuo-pin-pai-zhan-shi.md)
+* [企业版如何管理账号和表单权限](企业版如何管理账号和表单权限.md)
+* [如何用企业版做品牌展示](如何用企业版做品牌展示.md)
 * [填表人如何在企业版中查看和修改数据](填表人如何在企业版查看和修改数据.md)
 * [如何用企业版改造出差系统](如何用金数据企业版改造出差系统.md)
 * [如何用企业版改造运营商业务系统](如何用企业版改造运营商业务系统.md)
