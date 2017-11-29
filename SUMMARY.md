@@ -42,9 +42,9 @@
 * [企业版如何管理账号和表单权限](qi-ye-ban/qi-ye-ban-zhong-ru-he-guan-li-zhang-hao-he-biao-dan-quan-xian.md)
 * [如何用企业版做品牌展示](qi-ye-ban/ru-he-yong-qi-ye-ban-zuo-pin-pai-zhan-shi.md)
 * [填表人如何在企业版中查看和修改数据](qi-ye-ban/tian-biao-ren-ru-he-zai-qi-ye-ban-zhong-cha-kan-he-xiu-gai-shu-ju.md)
-* [如何用企业版改造出差系统](qi-ye-ban/ru-he-yong-qi-ye-ban-gai-zao-chu-cha-xi-tong.md)
+* [如何用企业版改造出差系统](如何用金数据企业版改造出差系统.md)
 * [如何用企业版改造运营商业务系统](ru-he-yong-qi-ye-ban-gai-zao-yun-ying-shang-ye-wu-xi-tong.md)
-* [如何与自有 IT 系统对接](如何将金数据与自有-it-系统对接.md)
+* [如何与企业自有 IT 系统对接](如何将金数据与自有-it-系统对接.md)
 
 ## 职场指南
 
@@ -59,6 +59,4 @@
 * [金数据是什么](金数据是什么.md)
 * [金数据所有字段介绍](字段大全.md)
 * [如何制作一张表单](如何创建表单.md)
-
-
 
