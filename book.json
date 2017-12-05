@@ -3,7 +3,8 @@
     "author": "金数据",
     "language": "zh-cn",
     "pdf": {
-      "fontSize": 14,
-      "fontFamily": "STHeiti"
+      "fontSize": 18,
+      "fontFamily": "STHeiti",
+      "pageNumbers": false
     }
 }
